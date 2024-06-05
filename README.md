@@ -1,6 +1,9 @@
 @Entity : It is used for java class that is mapped to a database table.
+
 @Id: Indicates Primary key
+
 @GeneratedValue : value will be generated and managed by the database.
+
 @Repository: 
 -> It is a specialized annotation of @Component annotation 
 -> It is used to encasulate the logics required to access data sources.
